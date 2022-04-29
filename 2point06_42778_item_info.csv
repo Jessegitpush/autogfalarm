@@ -1,39 +1,39 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-13 12:47:27
-item-10,Dummy Core,155
-item-31,Basic Training Data,8736
-item-32,Intermediate Training Data,5769
-item-33,Advanced Training Data,1824
+item-10,Dummy Core,126
+item-31,Basic Training Data,7536
+item-32,Intermediate Training Data,7665
+item-33,Advanced Training Data,2894
 -1,kalina_level,30
 -1,kalina_favor,137775
-item-1,T-Doll Contract,691
-item-2,Equipment Contract,143
-item-3,Quick Production Contract,519
-item-4,Quick Repair Contract,2976
+item-1,T-Doll Contract,764
+item-2,Equipment Contract,118
+item-3,Quick Production Contract,497
+item-4,Quick Repair Contract,3040
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,5
 item-8,Quick Training Contract,71
-item-9,Enhancement Capsule,3292
-item-11,Key Card,2
+item-9,Enhancement Capsule,3409
+item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,1
-item-14,Original Sample,500
-item-15,Pure Sample,438
-item-16,Quick Analysis Contract,8
-item-17,Data Patch,16
-item-41,Token,2963
+item-14,Original Sample,1000
+item-15,Pure Sample,490
+item-16,Quick Analysis Contract,22
+item-17,Data Patch,34
+item-41,Token,3119
 item-42,Exchange Ticket,0
 item-43,Black Card,17
-item-44,Calibration Ticket,7487
-item-45,Memory Fragment,5029
-item-46,Special Combat Report,555
+item-44,Calibration Ticket,6517
+item-45,Memory Fragment,5229
+item-46,Special Combat Report,655
 item-47,Theater Material,3
-item-50,Universal Parts,7839
+item-50,Universal Parts,7879
 item-51,New Type Fire-Control Component,38
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,108
 item-103,Challenger Medal,19
-item-104,Elite Adventurer Medal,4
+item-104,Elite Adventurer Medal,5
 item-105,Sangvis-Griffin Coalition Medal,5
 item-106,Chess Champion Medal,184
 item-303,Central Data: 2B14,0
@@ -42,27 +42,27 @@ item-305,Central Data: AT4,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,45
-item-506,Battery,8309
-item-507,Surplus EXP,175898
-item-508,Friendship Points,25240
+item-506,Battery,7404
+item-507,Surplus EXP,240000
+item-508,Friendship Points,25310
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
-item-512,Supernova Kernel,450
-item-513,Dark Star Kernel,6900
-item-514,Petri Dish,818
-item-515,Basic Training Keycode,15049
-item-516,Advanced Training Keycode,7903
-item-519,HOC General Data,59
+item-512,Supernova Kernel,500
+item-513,Dark Star Kernel,13200
+item-514,Petri Dish,568
+item-515,Basic Training Keycode,11929
+item-516,Advanced Training Keycode,7523
+item-519,HOC General Data,63
 item-520,Frag Grenade,92
 item-521,Stun Grenade,11
 item-522,Turret,2
-item-525,Quick Auto-Battle Contract,107
-item-601,Infinite Surprise Dye,24
+item-525,Quick Auto-Battle Contract,126
+item-601,Infinite Surprise Dye,25
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,6
+item-603,Potential Energy,0
 item-604,Electronic Impulse,0
-item-605,Aid Commission,29
-item-606,Transfer Catalyst,295
+item-605,Aid Commission,24
+item-606,Transfer Catalyst,310
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -209,23 +209,23 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,18495
-item-4002,Snowfield's Gift,13797
-item-4003,Forest's Gift,20025
-item-4004,Wasteland's Gift,23
+item-4001,City's Gift,20486
+item-4002,Snowfield's Gift,21086
+item-4003,Forest's Gift,21245
+item-4004,Wasteland's Gift,183
 item-6001,Ordinary Meat Bun,24
-item-6002,Bundle of Meat Buns,34
+item-6002,Bundle of Meat Buns,35
 item-6003,Trove of Meat Buns,44
-item-6004,Commonfolk Standard,35
-item-6005,Comfort Bucket for One,46
-item-6006,Full Meal for Two,26
-item-6007,Strawberry Cheesecake Slice,31
+item-6004,Commonfolk Standard,39
+item-6005,Comfort Bucket for One,38
+item-6006,Full Meal for Two,17
+item-6007,Strawberry Cheesecake Slice,33
 item-6008,One Week's Cake Selection,31
-item-6009,Sweet Explosives,79
+item-6009,Sweet Explosives,77
 item-6010,"Baby  B-A-B-Y.",46
 item-6011,Streetside Oden,19
-item-6012,Wild Honeycomb,41
-item-6013,Icy Theater,34
+item-6012,Wild Honeycomb,42
+item-6013,Icy Theater,35
 item-7002,Extra Parts,1
 item-7003,Worrywart,0
 item-7004,Lovestruck,0
@@ -242,15 +242,15 @@ item-7021,Chromatic World,0
 item-7022,Clover Game,0
 item-7024,Legend,0
 item-8001,Intel Points,2640
-item-8002,Intel Points,90
+item-8002,Intel Points,0
 item-8003,Intel Points,0
 item-9003,Supply Box,0
 item-9004,Supply Box,0
 item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,11
-item-10604,Extra Impulse,58
+item-10603,Extra Potential Energy,8
+item-10604,Extra Impulse,49
 item-100004,Crate,6
 item-100006,Gingerbread Doll,1
 item-100013,Kitsune Mask,2
@@ -300,6 +300,9 @@ item-100100,Token of Life,20
 item-100108,Strange Soap,0
 item-100109,Nova Medal - Freaky Pandemic,4
 item-100110,Platinum Medal - Freaky Pandemic,1
+item-100114,White Knight Armor Fragments,240
+item-100115,Nova Medal - VA-11 HALL-A,8
+item-100116,Platinum Medal - VA-11 HALL-A,392
 item-100117,Star Ornament,90
 item-100118,Nova Medal·A Snowy Night Capriccio,0
 item-100119,Platinum Medal·A Snowy Night Capriccio,3
@@ -338,6 +341,7 @@ item-900041,Platinum Medal·The Photo Studio Mystery,169
 item-900042,Tangerine Coin,0
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
+gift-574,Resurrection Repairer Jr.,1
 gift-2203,Adventures of Fenfen,1
 gift-3903,Breakneck Whirlwind,1
 gift-3904,Cheers on the Blazing Tarmac,1
@@ -349,17 +353,16 @@ gift-4511,Dancer of the Night,1
 gift-4908,Roly-Poly Ninja Cat,1
 gift-5106,Thief of Sweetness,1
 gift-100001,Lollipop,108
-gift-100002,Ice Cream Cone,18
+gift-100002,Ice Cream Cone,28
 gift-100003,Strawberry Custard Cheesecake,184
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,21723
+gift-200001,Combat Report,18562
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,5582
-gift-574,Resurrection Repairer Jr.,1
+gift-400001,Rapid Growth Disk,4961
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10

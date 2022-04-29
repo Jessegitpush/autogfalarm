@@ -1,15 +1,15 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-09 14:02:36
-item-10,Dummy Core,941
+item-10,Dummy Core,943
 item-31,Basic Training Data,4683
 item-32,Intermediate Training Data,9330
 item-33,Advanced Training Data,7471
 -1,kalina_level,26
 -1,kalina_favor,63368
-item-1,T-Doll Contract,341
+item-1,T-Doll Contract,344
 item-2,Equipment Contract,591
 item-3,Quick Production Contract,287
-item-4,Quick Repair Contract,2836
+item-4,Quick Repair Contract,2839
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,7
 item-8,Quick Training Contract,39
@@ -18,9 +18,9 @@ item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,1
 item-14,Original Sample,3610
-item-15,Pure Sample,727
-item-16,Quick Analysis Contract,188
-item-17,Data Patch,39
+item-15,Pure Sample,707
+item-16,Quick Analysis Contract,193
+item-17,Data Patch,42
 item-41,Token,389
 item-42,Exchange Ticket,0
 item-43,Black Card,13
@@ -37,16 +37,16 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,25
-item-506,Battery,11870
+item-506,Battery,12070
 item-507,Surplus EXP,240000
-item-508,Friendship Points,47020
-item-509,Fairy Command,160
+item-508,Friendship Points,47060
+item-509,Fairy Command,200
 item-512,Supernova Kernel,10
 item-513,Dark Star Kernel,3650
 item-514,Petri Dish,675
-item-515,Basic Training Keycode,1822
+item-515,Basic Training Keycode,2202
 item-516,Advanced Training Keycode,812
-item-519,HOC General Data,34
+item-519,HOC General Data,35
 item-520,Frag Grenade,140
 item-521,Stun Grenade,13
 item-522,Turret,3
@@ -254,6 +254,13 @@ item-1909,Icon: Sigh of Nostalgia,1
 item-1910,Icon: Toil for Tomorrow,1
 item-1912,Icon: Mourning ★ Tears,1
 item-1913,Icon: Demon Overlord ☆ Mind's Eye,1
+item-2013,Icon: Birth of Starlight,1
+item-2014,Icon: Raise a Glass in Joyful Song,1
+item-2015,Icon: Walking in Solitude,1
+item-2016,Icon: Best Partner,2
+item-2017,Icon:  Setting Sail,1
+item-2018,Icon:  Friend of Pure Loyalty,1
+item-2019,ID:  Screen Breakers,1
 item-4001,City's Gift,40599
 item-4002,Snowfield's Gift,20707
 item-4003,Forest's Gift,35087
@@ -300,6 +307,8 @@ item-100049,Azure Conch,20
 item-100050,Nova Medal – Il Teatrino,1
 item-100051,Platinum Medal – Il Teatrino,0
 item-100052,Augustus,10
+item-100058,Nova Medal - Dual Randomness,3
+item-100059,Platinum Medal - Dual Randomness,3
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,0
 item-100064,Nova Medal,113
@@ -342,15 +351,6 @@ item-900038,Platinum Medal·DJMAX,16
 item-900039,Xmas Supply Box,20
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
-item-100058,Nova Medal - Dual Randomness,3
-item-100059,Platinum Medal - Dual Randomness,3
-item-2014,Icon: Raise a Glass in Joyful Song,1
-item-2015,Icon: Walking in Solitude,1
-item-2018,Icon:  Friend of Pure Loyalty,1
-item-2017,Icon:  Setting Sail,1
-item-2013,Icon: Birth of Starlight,1
-item-2019,ID:  Screen Breakers,1
-item-2016,Icon: Best Partner,2
 gift-4207,Night of Blue Lotus,1
 gift-4908,Roly-Poly Ninja Cat,1
 gift-100001,Lollipop,183
