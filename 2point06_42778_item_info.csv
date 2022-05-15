@@ -1,15 +1,15 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-13 12:47:27
-item-10,Dummy Core,300
-item-31,Basic Training Data,8006
-item-32,Intermediate Training Data,7115
-item-33,Advanced Training Data,2244
+item-10,Dummy Core,261
+item-31,Basic Training Data,8206
+item-32,Intermediate Training Data,7375
+item-33,Advanced Training Data,2759
 -1,kalina_level,30
--1,kalina_favor,137780
-item-1,T-Doll Contract,814
-item-2,Equipment Contract,110
-item-3,Quick Production Contract,547
-item-4,Quick Repair Contract,3075
+-1,kalina_favor,137785
+item-1,T-Doll Contract,828
+item-2,Equipment Contract,88
+item-3,Quick Production Contract,410
+item-4,Quick Repair Contract,3082
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,5
 item-8,Quick Training Contract,73
@@ -17,18 +17,18 @@ item-9,Enhancement Capsule,3472
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,1
-item-14,Original Sample,3450
-item-15,Pure Sample,287
-item-16,Quick Analysis Contract,26
-item-17,Data Patch,50
-item-41,Token,3210
+item-14,Original Sample,3610
+item-15,Pure Sample,157
+item-16,Quick Analysis Contract,27
+item-17,Data Patch,53
+item-41,Token,3215
 item-42,Exchange Ticket,0
 item-43,Black Card,17
-item-44,Calibration Ticket,9292
+item-44,Calibration Ticket,9412
 item-45,Memory Fragment,5609
 item-46,Special Combat Report,655
 item-47,Theater Material,3
-item-50,Universal Parts,9101
+item-50,Universal Parts,9105
 item-51,New Type Fire-Control Component,40
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,108
@@ -42,16 +42,16 @@ item-305,Central Data: AT4,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,45
-item-506,Battery,10219
+item-506,Battery,10299
 item-507,Surplus EXP,229063
-item-508,Friendship Points,25330
+item-508,Friendship Points,25350
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,500
 item-513,Dark Star Kernel,13200
-item-514,Petri Dish,688
-item-515,Basic Training Keycode,11929
-item-516,Advanced Training Keycode,8464
+item-514,Petri Dish,732
+item-515,Basic Training Keycode,11429
+item-516,Advanced Training Keycode,7864
 item-519,HOC General Data,67
 item-520,Frag Grenade,92
 item-521,Stun Grenade,11
@@ -61,7 +61,7 @@ item-601,Infinite Surprise Dye,35
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,6
 item-604,Electronic Impulse,0
-item-605,Aid Commission,25
+item-605,Aid Commission,26
 item-606,Transfer Catalyst,310
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -259,7 +259,7 @@ item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,8
-item-10604,Extra Impulse,54
+item-10604,Extra Impulse,55
 item-100004,Crate,6
 item-100006,Gingerbread Doll,1
 item-100013,Kitsune Mask,2
@@ -275,7 +275,7 @@ item-100032,True Core Mask - Polarized Light,0
 item-100033,Nova Medal,4
 item-100034,Platinum Medal,4
 item-100040,True Core Mask - 4th Anniversary,0
-item-100045,4th Anniversary Special Supply Box,10
+item-100045,4th Anniversary Special Supply Box,0
 item-100047,Nova Medal,3
 item-100049,Azure Conch,10
 item-100050,Nova Medal – Il Teatrino,0
@@ -311,7 +311,7 @@ item-100100,Token of Life,20
 item-100108,Strange Soap,0
 item-100109,Nova Medal - Freaky Pandemic,4
 item-100110,Platinum Medal - Freaky Pandemic,1
-item-100114,White Knight Armor Fragments,60
+item-100114,White Knight Armor Fragments,20
 item-100115,Nova Medal - VA-11 HALL-A,8
 item-100116,Platinum Medal - VA-11 HALL-A,2
 item-100117,Star Ornament,90
@@ -367,16 +367,16 @@ gift-5106,Thief of Sweetness,1
 gift-100001,Lollipop,108
 gift-100002,Ice Cream Cone,28
 gift-100003,Strawberry Custard Cheesecake,288
-gift-100005,Mulan Tea,10
+gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
 gift-200001,Combat Report,10154
-gift-200003,Beer on Discount,10
+gift-200003,Beer on Discount,20
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,5170
+gift-400001,Rapid Growth Disk,5370
 gift-5308,The Maids' Midnight Rally,1
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
