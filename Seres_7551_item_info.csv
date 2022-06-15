@@ -1,35 +1,35 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-09 14:02:36
-item-10,Dummy Core,943
+item-10,Dummy Core,1035
 item-31,Basic Training Data,4683
 item-32,Intermediate Training Data,9330
-item-33,Advanced Training Data,7471
+item-33,Advanced Training Data,7491
 -1,kalina_level,26
 -1,kalina_favor,63368
-item-1,T-Doll Contract,344
+item-1,T-Doll Contract,342
 item-2,Equipment Contract,591
-item-3,Quick Production Contract,287
+item-3,Quick Production Contract,277
 item-4,Quick Repair Contract,2839
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,7
 item-8,Quick Training Contract,39
-item-9,Enhancement Capsule,4658
+item-9,Enhancement Capsule,4660
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,1
-item-14,Original Sample,3610
+item-14,Original Sample,3620
 item-15,Pure Sample,707
 item-16,Quick Analysis Contract,193
 item-17,Data Patch,42
-item-41,Token,389
+item-41,Token,391
 item-42,Exchange Ticket,0
 item-43,Black Card,13
-item-44,Calibration Ticket,10560
-item-45,Memory Fragment,2400
+item-44,Calibration Ticket,10570
+item-45,Memory Fragment,2420
 item-46,Special Combat Report,13935
 item-47,Theater Material,0
-item-50,Universal Parts,17037
-item-51,New Type Fire-Control Component,39
+item-50,Universal Parts,17041
+item-51,New Type Fire-Control Component,41
 item-100,Elite Griffin Combat Medal,7
 item-101,Combat Ranking Medal,98
 item-103,Challenger Medal,21
@@ -37,7 +37,7 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,25
-item-506,Battery,12070
+item-506,Battery,12080
 item-507,Surplus EXP,240000
 item-508,Friendship Points,47060
 item-509,Fairy Command,200
@@ -258,21 +258,21 @@ item-2013,Icon: Birth of Starlight,1
 item-2014,Icon: Raise a Glass in Joyful Song,1
 item-2015,Icon: Walking in Solitude,1
 item-2016,Icon: Best Partner,2
-item-2017,Icon:  Setting Sail,1
-item-2018,Icon:  Friend of Pure Loyalty,1
-item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,40599
-item-4002,Snowfield's Gift,20707
-item-4003,Forest's Gift,35087
-item-4004,Wasteland's Gift,4800
+item-2017,Icon: Setting Sail,1
+item-2018,Icon: Friend of Pure Loyalty,1
+item-2019,ID: Screen Breakers,1
+item-4001,City's Gift,40765
+item-4002,Snowfield's Gift,14328
+item-4003,Forest's Gift,35559
+item-4004,Wasteland's Gift,8
 item-6001,Ordinary Meat Bun,50
 item-6002,Bundle of Meat Buns,77
 item-6003,Trove of Meat Buns,71
 item-6004,Commonfolk Standard,18
 item-6005,Comfort Bucket for One,44
-item-6006,Full Meal for Two,33
-item-6007,Strawberry Cheesecake Slice,11
-item-6008,One Week's Cake Selection,40
+item-6006,Full Meal for Two,34
+item-6007,Strawberry Cheesecake Slice,12
+item-6008,One Week's Cake Selection,43
 item-6009,Sweet Explosives,76
 item-6010,"Baby  B-A-B-Y.",48
 item-6011,Streetside Oden,30
@@ -360,7 +360,7 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,9
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,1
-gift-200001,Combat Report,37068
+gift-200001,Combat Report,40668
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,1
 gift-400001,Rapid Growth Disk,508
