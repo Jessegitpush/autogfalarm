@@ -1,37 +1,37 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-13 12:47:27
-item-10,Dummy Core,299
-item-31,Basic Training Data,8934
-item-32,Intermediate Training Data,8286
-item-33,Advanced Training Data,9237
+item-10,Dummy Core,84
+item-31,Basic Training Data,7844
+item-32,Intermediate Training Data,6912
+item-33,Advanced Training Data,9607
 -1,kalina_level,30
 -1,kalina_favor,146205
-item-1,T-Doll Contract,580
-item-2,Equipment Contract,0
-item-3,Quick Production Contract,6
-item-4,Quick Repair Contract,4134
+item-1,T-Doll Contract,619
+item-2,Equipment Contract,62
+item-3,Quick Production Contract,41
+item-4,Quick Repair Contract,4105
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,5
-item-8,Quick Training Contract,97
-item-9,Enhancement Capsule,4827
+item-8,Quick Training Contract,98
+item-9,Enhancement Capsule,5009
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,1
-item-14,Original Sample,3800
-item-15,Pure Sample,498
-item-16,Quick Analysis Contract,75
-item-17,Data Patch,213
-item-41,Token,3424
+item-14,Original Sample,3700
+item-15,Pure Sample,819
+item-16,Quick Analysis Contract,81
+item-17,Data Patch,214
+item-41,Token,3610
 item-42,Exchange Ticket,0
 item-43,Black Card,21
-item-44,Calibration Ticket,6833
-item-45,Memory Fragment,11079
-item-46,Special Combat Report,4251
+item-44,Calibration Ticket,7293
+item-45,Memory Fragment,5009
+item-46,Special Combat Report,4501
 item-47,Theater Material,1
-item-50,Universal Parts,10253
+item-50,Universal Parts,9980
 item-51,New Type Fire-Control Component,65
 item-53,Gachapon Ticket,109
-item-100,Elite Griffin Combat Medal,5
+item-100,Elite Griffin Combat Medal,6
 item-101,Combat Ranking Medal,108
 item-103,Challenger Medal,22
 item-104,Elite Adventurer Medal,5
@@ -45,16 +45,16 @@ item-305,Central Data: AT4,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,95
-item-506,Battery,9999
-item-507,Surplus EXP,194515
-item-508,Friendship Points,20600
+item-506,Battery,10459
+item-507,Surplus EXP,960000
+item-508,Friendship Points,20610
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
-item-512,Supernova Kernel,850
-item-513,Dark Star Kernel,7650
-item-514,Petri Dish,2503
-item-515,Basic Training Keycode,13307
-item-516,Advanced Training Keycode,3477
+item-512,Supernova Kernel,900
+item-513,Dark Star Kernel,10250
+item-514,Petri Dish,2173
+item-515,Basic Training Keycode,14179
+item-516,Advanced Training Keycode,3708
 item-517,Specified Equipment Contract,40
 item-519,HOC General Data,121
 item-520,Frag Grenade,92
@@ -62,13 +62,13 @@ item-521,Stun Grenade,11
 item-522,Turret,2
 item-523,G&K,1
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,506
+item-525,Quick Auto-Battle Contract,618
 item-601,Infinite Surprise Dye,23
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,12
-item-604,Electronic Impulse,0
-item-605,Aid Commission,66
-item-606,Transfer Catalyst,200
+item-604,Electronic Impulse,1
+item-605,Aid Commission,67
+item-606,Transfer Catalyst,150
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -228,6 +228,7 @@ item-1844,ID: Spring Carnival,1
 item-1857,Rain of Bullets – Borderland,1
 item-1858,Storm of Steel – Borderland,1
 item-1860,ID: Fragments of Precious Treasures,1
+item-1862,item-10001862,1
 item-1890,Icon: In Oceans Deep,1
 item-1891,Icon: Best Actress,1
 item-1906,Icon: Scry Thy Heart,1
@@ -239,6 +240,20 @@ item-1911,Icon: Call of the Devil,1
 item-1912,Icon: Mourning ★ Tears,1
 item-1913,Icon: Demon Overlord ☆ Mind's Eye,1
 item-1937,Percussive Bolero,1
+item-1941,item-10001941,1
+item-1942,item-10001942,1
+item-1943,item-10001943,1
+item-1944,item-10001944,1
+item-1945,item-10001945,1
+item-1946,item-10001946,1
+item-1947,item-10001947,1
+item-1948,item-10001948,1
+item-1949,item-10001949,1
+item-1950,item-10001950,1
+item-1951,item-10001951,1
+item-1952,item-10001952,1
+item-1953,item-10001953,1
+item-1954,item-10001954,1
 item-1990,Icon: Pink Eye of Enthrallment,1
 item-2013,Icon: Birth of Starlight,1
 item-2014,Icon: Raise a Glass in Joyful Song,1
@@ -250,6 +265,7 @@ item-2019,ID: Screen Breakers,1
 item-2069,Resurrection Repairer Jr.,1
 item-2074,ID: A Promise of Four Years,1
 item-2124,ID Card: Mirror Stage,1
+item-2174,ID: Power Struggle,1
 item-4001,City's Gift,34835
 item-4002,Snowfield's Gift,28711
 item-4003,Forest's Gift,26214
@@ -292,7 +308,7 @@ item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,23
-item-10604,Extra Impulse,61
+item-10604,Extra Impulse,65
 item-100004,Crate,6
 item-100006,Gingerbread Doll,1
 item-100013,Kitsune Mask,2
@@ -348,6 +364,10 @@ item-100097,Star Marker,10
 item-100098,Nova Medal – My Devil's Frontline,2
 item-100099,Platinum Medal – My Devil's Frontline,4
 item-100100,Token of Life,20
+item-100101,item-10100101,60
+item-100102,item-10100102,366
+item-100103,item-10100103,291
+item-100104,item-10100104,1
 item-100108,Strange Soap,0
 item-100109,Nova Medal - Freaky Pandemic,4
 item-100110,Platinum Medal - Freaky Pandemic,1
@@ -420,19 +440,19 @@ gift-4305,Heartbeat Before the Angel Statue,1
 gift-6106,Soda Tale,1
 gift-6107,Soaring Starfish,1
 gift-7408,Bouquet for the Galaxy,1
-gift-100001,Lollipop,137
+gift-100001,Lollipop,167
 gift-100002,Ice Cream Cone,42
 gift-100003,Strawberry Custard Cheesecake,274
 gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,17488
+gift-200001,Combat Report,13461
 gift-200003,Beer on Discount,20
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,7240
+gift-400001,Rapid Growth Disk,7664
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
