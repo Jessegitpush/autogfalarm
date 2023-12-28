@@ -1,18 +1,18 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-13 12:47:27
-item-10,Dummy Core,4723
+item-10,Dummy Core,4724
 item-31,Basic Training Data,9809
 item-32,Intermediate Training Data,5593
 item-33,Advanced Training Data,6005
 -1,kalina_level,30
 -1,kalina_favor,172861
-item-1,T-Doll Contract,109
-item-2,Equipment Contract,2908
-item-3,Quick Production Contract,458
-item-4,Quick Repair Contract,6757
+item-1,T-Doll Contract,114
+item-2,Equipment Contract,2909
+item-3,Quick Production Contract,461
+item-4,Quick Repair Contract,6762
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,11
-item-8,Quick Training Contract,648
+item-8,Quick Training Contract,658
 item-9,Enhancement Capsule,7648
 item-11,Key Card,0
 item-12,Points,0
@@ -50,7 +50,7 @@ item-117,Eclipse Observer,1
 item-118,Golden Mic Music Medal,1
 item-119,Theater 10 Pioneer Medal,1
 item-120,Theater 10 Conqueror Medal,1
-item-121,item-10000121,1
+item-121,Navigator of the Deep Lake,1
 item-303,Central Data: 2B14,0
 item-304,Central Data: M2,0
 item-305,Central Data: AT4,0
@@ -58,9 +58,9 @@ item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Central Data: PP93,0
 item-309,Central Data: Mk 47,65
-item-506,Battery,10754
+item-506,Battery,10779
 item-507,Surplus EXP,960000
-item-508,Friendship Points,42130
+item-508,Friendship Points,42150
 item-509,Fairy Command,131
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1540
@@ -351,17 +351,17 @@ item-2257,ID: May the Show Never End!,1
 item-2258,Background: Sunny Weather  Perfect for a Bath,1
 item-2259,Background: Midnight,1
 item-2286,ID Card: Wonderful Date,1
-item-2287,item-10002287,1
-item-2289,item-10002289,1
-item-2290,item-10002290,1
-item-2292,item-10002292,1
-item-2293,item-10002293,1
-item-2294,item-10002294,1
-item-2295,item-10002295,1
-item-2296,item-10002296,1
-item-2297,item-10002297,1
-item-2298,item-10002298,1
-item-2299,item-10002299,1
+item-2287,Icon: Figure in the Mirror,1
+item-2289,Icon: Into Darkness,1
+item-2290,Icon: The Fall of Kepler-78b,1
+item-2292,Icon: Character in a Story,1
+item-2293,Icon: Hodur's Return,1
+item-2294,Icon: Walking Against the Light,1
+item-2295,ID: Oath of Honor,1
+item-2296,ID: Endless Song,1
+item-2297,ID: Silent Port of Spirits,1
+item-2298,ID: Dawn is Nigh,1
+item-2299,Background: Phonograph Museum,1
 item-2321,ID Card: Childhood Tales of Summer Flowers,1
 item-4001,City's Gift,18989
 item-4002,Snowfield's Gift,30821
@@ -426,8 +426,8 @@ item-9034,Cone-Shaped Parts,1
 item-9035,Ring-Shaped Parts,1
 item-10603,Extra Potential Energy,20
 item-10604,Extra Impulse,142
-item-10605,Level of Activity,170
-item-10606,Frontline Protocol Advanced Card,230
+item-10605,Level of Activity,190
+item-10606,Frontline Protocol Advanced Card,250
 item-10702,Exploration Permit,1117
 item-10703,Gray Zone Exploration Score,19340
 item-10704,Gray Zone Exploration Score,6206
@@ -537,11 +537,11 @@ item-100167,Nova Medal: One Coin Short,1
 item-100168,Platinum Medal: One Coin Short,39
 item-100175,Kotaro Coin,10
 item-100176,Platinum Medal – The Glistening Bloom,4
-item-100180,item-10100180,0
-item-100181,item-10100181,84
-item-100182,item-10100182,14
-item-100183,item-10100183,0
-item-100184,item-10100184,0
+item-100180,Supply Box - Slow Shock,0
+item-100181,Nova Medal - Slow Shock,84
+item-100182,Platinum Medal - Slow Shock,14
+item-100183,True Core Mask - Slow Shock,0
+item-100184,Corrupted Heart Mask - Slow Shock,0
 item-110001,Carnival Event Points,1420
 item-110002,Carnival Event Points,2180
 item-110003,Carnival Event Points,2270
