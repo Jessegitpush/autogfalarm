@@ -22,7 +22,6 @@
 457311,22,★,0,5,Beach Fairy,3.6,0.0,4.8,0.0,0,Cool,1,Locked
 457312,22,★★★★★,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Damage II,10,Locked
 461520,12,★,0,1,Landmine Fairy,5.6,10.0,19.6,0.0,0,Evasion II,1,Locked
-499183,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Critical II,10,Locked
 569609,27,★,0,1,Auspicious Fairy,3.2,12.0,16.0,0.0,0,Auspicious Type,1,Locked
 626887,24,★★★,1150,5,Barrier Fairy,0.0,15.6,6.8,4.8,0,Fervor,1,Locked
 637598,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
@@ -310,3 +309,4 @@
 1182928,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Evasion II,1,
 1182929,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Critical I,1,
 442371,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+499183,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Critical II,10,Locked
